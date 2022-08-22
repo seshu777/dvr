@@ -1,0 +1,3 @@
+python "print"
+java -jar testing
+println "dvr"
