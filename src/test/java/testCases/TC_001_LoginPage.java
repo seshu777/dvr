@@ -19,5 +19,6 @@ public void loginPage()
 	lp.clickOnUser();
 	lp.clickOnLogout();
 	lp.orangeLogo();
+	lp.close();
 }
 }
